@@ -159,8 +159,7 @@ h6{
     margin: 20px;
     border-radius: 15px;
     transition: all 0.2s ease-in-out;
-    max-width: 200px;
-    min-width: 100px;
+     min-width: 100px;
 }
 .card:hover{
     animation: flow 3s infinite;
