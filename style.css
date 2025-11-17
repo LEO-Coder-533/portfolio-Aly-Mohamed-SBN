@@ -298,5 +298,7 @@ hr{
     form , .fsc{
         width: 100%;
     }
-
+    footer p{
+        font-size: 10px;
+    }
 }
