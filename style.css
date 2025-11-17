@@ -159,7 +159,8 @@ h6{
     margin: 20px;
     border-radius: 15px;
     transition: all 0.2s ease-in-out;
-    width: 29%;
+    max-width: 200px;
+    min-width: 100px;
 }
 .card:hover{
     animation: flow 3s infinite;
@@ -205,6 +206,8 @@ form input:focus , form textarea:focus{
     display: flex;
     flex-direction: column;
     gap: 30px;
+    width: 25%;
+    margin: 10px auto;
 }
 .fsc a{
     text-decoration: none;
